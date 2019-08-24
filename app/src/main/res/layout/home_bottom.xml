@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@color/theme_white"
+        android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_gravity="center"
+
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="432dp"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="Bounce Keyless bikes are currently not available in your area."
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="center"
+        android:layout_marginStart="0dp"
+        android:layout_marginBottom="158dp"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="We are rapidly expanding so check back soon."
+        android:textColor="@color/theme_light_black"
+        android:textSize="18sp" />
+
+    <Button
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="600dp"
+        android:background="@drawable/button_shape"
+        android:text="check out hourly rentals"
+        android:textAllCaps="true"
+        android:textColor="@color/theme_white" />
+</RelativeLayout>

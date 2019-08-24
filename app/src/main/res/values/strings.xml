@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Bounce</string>
+    <string name="welcome_text">Welcome to Bounce!</string>
+    <string name="welcome_text2">Freedom to go anywhere</string>
+    <string name="have_a">Have a referal code?</string>
+    <string name="enter_code">Enter Code</string>
+    <string name="signup">Sign up</string>
+    <string name="policy_1">By signing up, you accept to our</string>
+    <string name="policy_2">Terms and Conditions</string>
+    <string name="have_a_referal_code">Have a referal code?</string>
+    <string name="Open">open</string>
+    <string name="Close">close</string>
+</resources>

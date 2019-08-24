@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "325067883874",
+    "firebase_url": "https://bounce-efc0b.firebaseio.com",
+    "project_id": "bounce-efc0b",
+    "storage_bucket": "bounce-efc0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325067883874:android:74798a1a82f0dd4c",
+        "android_client_info": {
+          "package_name": "com.example.bounce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325067883874-magdrgmnl18kfjkcn5aepn4a6jonvhti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bounce",
+            "certificate_hash": "640402f9e76c8558836e210ea42b3bfb2fe5a16e"
+          }
+        },
+        {
+          "client_id": "325067883874-fm4lsvqbajpr4v7v7i051nt5o018f24h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN1EQrAdN_9CAWPp-7n-6GyGwT0xRz4Fk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325067883874-fm4lsvqbajpr4v7v7i051nt5o018f24h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

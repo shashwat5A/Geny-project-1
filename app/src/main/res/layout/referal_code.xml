@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+    android:padding="10dp"
+    android:background="@color/theme_white"
+    android:layout_gravity="center"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/have_a_referal_code"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:padding="15dp"
+        android:layout_marginTop="25dp"/>
+
+    <EditText
+        android:id="@+id/referal_code_et"
+        android:inputType="textEmailAddress"
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:background="@drawable/edit_text"
+        android:hint="Enter code"
+        android:padding="10dp" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/next_bt"
+        android:layout_marginTop="250dp"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="23dp"
+        android:background="@drawable/button_shape"
+        android:text="Next"
+        android:textAllCaps="true"
+        android:textColor="@color/theme_white" />
+
+</RelativeLayout>
